@@ -1,6 +1,6 @@
 # rag-research-paper-qa-
 Research paper question answering using Retrieval-Augmented Generation (RAG)
-# 📄 Research Paper Question Answering using RAG
+# 📄 Research Paper Question Answering using RAG 
 
 ## 🔍 Overview
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline  
